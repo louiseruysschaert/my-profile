@@ -1,0 +1,35 @@
+body {
+	background-color: lavender;
+	color:cornflowerblue;
+	font-family: courier;
+	font-size: 17px;
+}
+h1{
+	color: darkslateblue;
+}
+h2,h3{font-family: courier;
+	
+
+}
+h2{font-size: 32px;
+	color: darkslateblue;
+	
+  color: darkslateblue;
+	font-family: courier;
+	font-size: 24px;
+	font-weight: lighter;
+}
+
+a{
+	font-family: initial;
+	text-decoration: none;
+	color: darkslateblue;
+}
+a:hover{ 
+color: cornflowerblue;}
+
+div{ 
+	background: lavender;
+	border: 2px solid cornflowerblue;
+	margin: 10px;
+}
